@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03126903-8676-4696-82c2-0d5197ff26a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ericisroot.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Variables/MoreVariablesAndPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Variables/MoreVariablesAndPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Variables/VariablesAndNames1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Variables/MoreVariablesAndPrinting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Variables/MoreVariablesAndPrinting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Variables/VariablesAndNames1.class" beforeDir="false" />
-    </list>
+    <list default="true" id="03126903-8676-4696-82c2-0d5197ff26a7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,43 +14,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements2/WhatIf.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="449">
-                  <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements/HowOldAreYou.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="396">
-                  <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements2/HowOldAreYou.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="431">
-                  <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements2/WeekdayName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements2/HowOldAreYouSpecificially.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,6 +93,9 @@
         <option value="$PROJECT_DIR$/src/main/java/KeyboardInput2/BMICalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/IfStatements2/WhatIf.java" />
         <option value="$PROJECT_DIR$/src/main/java/IfStatements2/HowOldAreYou.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IfStatements2/ElseAndIf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IfStatements2/WeekdayName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IfStatements2/HowOldAreYouSpecificially.java" />
       </list>
     </option>
   </component>
@@ -164,14 +140,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="IfStatements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramByDoing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgrammingByDoing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="IfStatements2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -203,39 +171,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HowOldAreYou">
-    <configuration name="ADumbCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KeyboardInput2.ADumbCalculator" />
+  <component name="RunManager" selected="Application.HowOldAreYouSpecificially">
+    <configuration name="ElseAndIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfStatements2.ElseAndIf" />
       <module name="ProgrammingByDoing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KeyboardInput2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AgeInFiveYears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KeyboardInput2.AgeInFiveYears" />
-      <module name="ProgrammingByDoing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="KeyboardInput2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KeyboardInput2.BMICalculator" />
-      <module name="ProgrammingByDoing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="KeyboardInput2.*" />
+          <option name="PATTERN" value="IfStatements2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,6 +187,32 @@
     </configuration>
     <configuration name="HowOldAreYou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IfStatements2.HowOldAreYou" />
+      <module name="ProgrammingByDoing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IfStatements2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HowOldAreYouSpecificially" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfStatements2.HowOldAreYouSpecificially" />
+      <module name="ProgrammingByDoing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IfStatements2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeekdayName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfStatements2.WeekdayName" />
       <module name="ProgrammingByDoing" />
       <extension name="coverage">
         <pattern>
@@ -271,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HowOldAreYouSpecificially" />
+        <item itemvalue="Application.WeekdayName" />
+        <item itemvalue="Application.ElseAndIf" />
         <item itemvalue="Application.HowOldAreYou" />
         <item itemvalue="Application.WhatIf" />
-        <item itemvalue="Application.BMICalculator" />
-        <item itemvalue="Application.ADumbCalculator" />
-        <item itemvalue="Application.AgeInFiveYears" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +264,7 @@
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.0995116" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10561661" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -309,8 +277,8 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29495615" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29495615" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -392,13 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements/WeekdayName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
@@ -665,8 +626,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements2/HowOldAreYou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="648">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements/WeekdayName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements2/ElseAndIf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements2/WeekdayName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements2/HowOldAreYouSpecificially.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
