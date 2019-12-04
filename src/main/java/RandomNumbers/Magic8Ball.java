@@ -8,13 +8,6 @@ public class Magic8Ball {
         Random random = new Random();
         Scanner userInput = new Scanner(System.in);
 
-        String yesNo;
-
-        System.out.println("Do you have a question for the magic 8-Ball?");
-        yesNo = userInput.nextLine();
-
-        if(yesNo)
-
         int choice = 1 + random.nextInt(15);
         String response = "";
 
