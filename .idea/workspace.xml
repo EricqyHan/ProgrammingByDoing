@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03126903-8676-4696-82c2-0d5197ff26a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DoWhileLoop/FlipAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DoWhileLoop/FlipAgain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,11 +19,23 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/DoWhileLoop/FlipAgain.java">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/DoWhileLoop/ShorterDoubleDice.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="346">
-                  <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+                <state relative-caret-position="504">
+                  <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/DoWhileLoop/AgainWithNumberGuessing.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="414">
+                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -35,11 +47,41 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/IfStatements2/TwoQuestions.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="194">
                   <caret line="41" selection-start-line="41" selection-end-line="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/DoWhileLoop/FlipAgain.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="494">
+                  <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/RandomNumbers/Dice.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="324">
+                  <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/WhileLoops/DiceDoubles.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="438">
+                  <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
                 </state>
               </provider>
             </entry>
@@ -64,8 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/IfStatements/WeekdayName.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IfStatements/HowOldAreYou.java" />
         <option value="$PROJECT_DIR$/src/main/java/IfStatements/HowOldAreYouSpecifically.java" />
         <option value="$PROJECT_DIR$/src/main/java/IfStatements/SpaceBoxing.java" />
         <option value="$PROJECT_DIR$/src/main/java/IfStatements/ALittleQuiz.java" />
@@ -115,6 +155,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Arrays/BasicArray0.java" />
         <option value="$PROJECT_DIR$/src/main/java/WhileLoops/CoinFlip.java" />
         <option value="$PROJECT_DIR$/src/main/java/DoWhileLoop/FlipAgain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DoWhileLoop/ShorterDoubleDice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DoWhileLoop/AgainWithNumberGuessing.java" />
       </list>
     </option>
   </component>
@@ -167,14 +209,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="IfStatements2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProgramByDoing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProgrammingByDoing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="WhileLoops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -206,13 +240,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlipAgain">
-    <configuration name="BasicArray0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.BasicArray0" />
+  <component name="RunManager" selected="Application.AgainWithNumberGuessing">
+    <configuration name="AgainWithNumberGuessing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoop.AgainWithNumberGuessing" />
       <module name="ProgrammingByDoing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="DoWhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,6 +256,19 @@
     </configuration>
     <configuration name="CoinFlip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhileLoops.CoinFlip" />
+      <module name="ProgrammingByDoing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WhileLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiceDoubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoops.DiceDoubles" />
       <module name="ProgrammingByDoing" />
       <extension name="coverage">
         <pattern>
@@ -246,25 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuessingCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoops.NumberGuessingCounter" />
+    <configuration name="ShorterDoubleDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoop.ShorterDoubleDice" />
       <module name="ProgrammingByDoing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WhileLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PINLockout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoops.PINLockout" />
-      <module name="ProgrammingByDoing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WhileLoops.*" />
+          <option name="PATTERN" value="DoWhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgainWithNumberGuessing" />
+        <item itemvalue="Application.ShorterDoubleDice" />
+        <item itemvalue="Application.DiceDoubles" />
         <item itemvalue="Application.FlipAgain" />
         <item itemvalue="Application.CoinFlip" />
-        <item itemvalue="Application.BasicArray0" />
-        <item itemvalue="Application.NumberGuessingCounter" />
-        <item itemvalue="Application.PINLockout" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +345,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39583334" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26535088" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -319,7 +353,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32894737" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="bottom" id="Console" order="13" />
@@ -370,8 +404,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ForLoop/FizzBuzz.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Basics.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/BasicsAndPrinting/AGoodFirstProgram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -595,13 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RandomNumbers/Dice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RandomNumbers/FortuneCookie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -613,13 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WhileLoops/DiceDoubles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -705,10 +723,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RandomNumbers/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WhileLoops/DiceDoubles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DoWhileLoop/FlipAgain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <state relative-caret-position="494">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoWhileLoop/ShorterDoubleDice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoWhileLoop/AgainWithNumberGuessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

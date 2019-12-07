@@ -21,8 +21,8 @@ public class FlipAgain {
             else
                 coin = "tails";
 
-            System.out.println("You flip a coin and it is ... ");
-            System.out.println("Would you like to flip again? " + coin);
+            System.out.println("You flip a coin and it is ... " + coin);
+            System.out.println("Would you like to flip again? ");
             again = userInput.nextLine();
 
         } while(again.equals ("y"));
